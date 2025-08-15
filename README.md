@@ -40,6 +40,7 @@ When I’m not coding, you’ll find me hiking or exploring digital art.
 
 ---
 
-##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adhinaya-blue)](https://www.linkedin.com/in/abhinaya-bolishetti-441720276/)
-[![GitHub](https://img.shields.io/badge/GitHub-Abhinaya-Bolishetti-black)](https://github.com/Abhinaya-Bolishetti)
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinaya%20Bolishetti-blue?logo=linkedin)](https://www.linkedin.com/in/abhinaya-bolishetti-441720276/)
+[![GitHub](https://img.shields.io/badge/GitHub-Abhinaya--Bolishetti-black?logo=github)](https://github.com/Abhinaya-Bolishetti)
+
