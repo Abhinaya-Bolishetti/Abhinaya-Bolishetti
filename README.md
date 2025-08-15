@@ -3,7 +3,6 @@
 **B.Tech CSE (AI & ML)** | Passionate about AI, Web Dev & Cybersecurity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhinaya-Bolishetti)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinaya-Bolishetti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaya-Bolishetti&layout=compact&theme=radical)
 
 ---
