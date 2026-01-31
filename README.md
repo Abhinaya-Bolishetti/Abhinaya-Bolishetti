@@ -1,9 +1,9 @@
-# 👋 Hi, I’m Abhinaya Bolishetti
+<h1 align="center">Hi 👋, I'm Abhinaya Bolishetti</h1>
+<h3 align="center">B.Tech CSE (AI & ML) | AI • Web Development • Cybersecurity Enthusiast</h3>
 
-**B.Tech CSE (AI & ML)** | AI • Web Development • Cybersecurity Enthusiast  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhinaya-Bolishetti&color=blue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaya-Bolishetti&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinaya-Bolishetti&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
@@ -13,39 +13,51 @@
 - 💡 Passionate about **Artificial Intelligence, Web Development & Cybersecurity**
 - 🛠️ Skilled in **Java, Python, JavaScript, HTML, CSS, MySQL**
 - 📜 Certified in **Network Defense, Java Foundation, AI Fundamentals**
-- 📚 Currently diving into **DSA in Java** and **Cybersecurity**
+- 📚 Currently learning **DSA in Java** & **Cybersecurity**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinaya-Bolishetti&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaya-Bolishetti&layout=compact&langs_count=8&theme=radical" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,flask,mysql,postgresql" />
+</p>
 
 ---
 
 ## 📌 Projects
 
-- **Portfolio Website** – A responsive website showcasing my skills and work  
-- **AI Suspect Detection (CNN)** – Built a CNN model to identify suspects from images  
-- **Student Attendance Prediction (ML)** – Predicts student attendance using machine learning algorithms  
+- 🔹 **Portfolio Website** – Responsive personal portfolio  
+- 🔹 **AI Suspect Detection (CNN)** – Image-based suspect identification  
+- 🔹 **Student Attendance Prediction (ML)** – ML-based attendance analysis  
 
 ---
 
 ## ✨ Fun Fact
 
-When I’m not writing code, you’ll find me turning pages of a good novel 📚 or packing my bags to explore new places ✈️ — I believe both stories and journeys shape great ideas.
+📚 I love reading novels & ✈️ traveling — both inspire creativity and problem-solving!
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinaya%20Bolishetti-blue?logo=linkedin)](https://www.linkedin.com/in/abhinaya-bolishetti-441720276/)
-[![GitHub](https://img.shields.io/badge/GitHub-Abhinaya--Bolishetti-black?logo=github)](https://github.com/Abhinaya-Bolishetti)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinaya-bolishetti-441720276/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhinaya%20Bolishetti-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/Abhinaya-Bolishetti">
+    <img src="https://img.shields.io/badge/GitHub-Abhinaya--Bolishetti-black?logo=github" />
+  </a>
+</p>
