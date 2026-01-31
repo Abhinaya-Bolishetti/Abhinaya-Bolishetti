@@ -20,12 +20,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinaya-Bolishetti&show_icons=true&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Abhinaya-Bolishetti&show_icons=true&theme=radical&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaya-Bolishetti&layout=compact&langs_count=8&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaya-Bolishetti&layout=compact&langs_count=6&theme=radical&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
