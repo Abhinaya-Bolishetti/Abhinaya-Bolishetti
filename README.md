@@ -1,64 +1,103 @@
-<h1 align="center">Hi 👋, I'm Abhinaya Bolishetti</h1>
-<h3 align="center">B.Tech CSE (AI & ML) | AI • Web Development • Cybersecurity Enthusiast</h3>
+# 👋 Hi, I’m Abhinaya Bolishetti  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinaya-Bolishetti&label=Profile%20Views&color=blue&style=flat" />
-</p>
+🎓 **B.Tech Computer Science (AI & ML)**  
+💻 Aspiring **Software Engineer | AI & ML Engineer | Web Developer**  
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me  
 
-- 🎓 Student at **Bhoj Reddy Engineering College for Women**
-- 💡 Passionate about **Artificial Intelligence, Web Development & Cybersecurity**
-- 🛠️ Skilled in **Java, Python, JavaScript, HTML, CSS, MySQL**
-- 📜 Certified in **Network Defense, Java Foundation, AI Fundamentals**
-- 📚 Currently learning **DSA in Java** & **Cybersecurity**
+I am a motivated Computer Science student specializing in **Artificial Intelligence & Machine Learning**, with a strong foundation in **programming, data structures, and web development**.  
+I am actively seeking **internship and entry-level opportunities** where I can apply my technical skills, learn from industry professionals, and contribute to real-world projects.
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Career Objective  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinaya-Bolishetti&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinaya-Bolishetti&layout=compact&langs_count=6&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</p>
-
+To secure a **Software / AI-ML Internship or Graduate Role** where I can leverage my skills in **Java, Python, Machine Learning, and Web Development** while continuously improving my problem-solving and engineering abilities.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,flask,mysql,postgresql" />
-</p>
+**Programming Languages**  
+- Java  
+- Python  
+- JavaScript  
+
+**Web Technologies**  
+- HTML5  
+- CSS3  
+- React  
+- Flask  
+
+**Databases**  
+- MySQL  
+- PostgreSQL  
+
+**Core Computer Science**  
+- Data Structures & Algorithms (Java)  
+- Object-Oriented Programming  
+- Database Management Systems  
+- Basics of Computer Networks  
+
+**AI / ML**  
+- Machine Learning Algorithms  
+- Convolutional Neural Networks (CNN)  
+- Data Preprocessing & Model Evaluation  
 
 ---
 
-## 📌 Projects
+## 📌 Academic & Personal Projects  
 
-- 🔹 **Portfolio Website** – Responsive personal portfolio  
-- 🔹 **AI Suspect Detection (CNN)** – Image-based suspect identification  
-- 🔹 **Student Attendance Prediction (ML)** – ML-based attendance analysis  
+### 🔹 Portfolio Website  
+- Designed and developed a **responsive personal portfolio**  
+- Showcases skills, projects, and contact information  
+- Built using **HTML, CSS, JavaScript, and React**
+
+### 🔹 AI Suspect Detection System (CNN)  
+- Developed a **Convolutional Neural Network** to identify suspects from images  
+- Implemented image preprocessing and classification  
+- Focused on real-world AI application in security systems  
+
+### 🔹 Student Attendance Prediction (Machine Learning)  
+- Built a machine learning model to **predict student attendance patterns**  
+- Used data preprocessing and supervised learning algorithms  
+- Improved prediction accuracy through feature selection  
 
 ---
 
-## ✨ Fun Fact
+## 📜 Certifications  
 
-📚 I love reading novels & ✈️ traveling — both inspire creativity and problem-solving!
+- Network Defense  
+- Java Foundation  
+- AI Fundamentals  
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhinaya-bolishetti-441720276/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhinaya%20Bolishetti-blue?logo=linkedin" />
-  </a>
-  <a href="https://github.com/Abhinaya-Bolishetti">
-    <img src="https://img.shields.io/badge/GitHub-Abhinaya--Bolishetti-black?logo=github" />
-  </a>
-</p>
+- Advanced **Data Structures & Algorithms (Java)**  
+- **Cybersecurity Fundamentals**  
+- Improving **problem-solving on coding platforms**
+
+---
+
+## 🤝 Soft Skills  
+
+- Problem Solving  
+- Analytical Thinking  
+- Continuous Learner  
+- Team Collaboration  
+- Strong Communication  
+
+---
+
+## 📫 Connect With Me  
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/abhinaya-bolishetti-441720276/  
+- 💻 GitHub: https://github.com/Abhinaya-Bolishetti  
+
+---
+
+⭐ *Open to internships, training programs, and entry-level software roles.*
