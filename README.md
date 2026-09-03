@@ -1,103 +1,124 @@
-# 👋 Hi, I’m Abhinaya Bolishetti  
+# Hi there, I'm Abhinaya Bolishetti 👋
 
-🎓 **B.Tech Computer Science (AI & ML)**  
-💻 Aspiring **Software Engineer | AI & ML Engineer | Web Developer**  
+**Java Backend & Full Stack Developer** | B.Tech CSE (AI & ML) Graduate (2026)
 
----
-
-## 👩‍💻 About Me  
-
-I am a motivated Computer Science student specializing in **Artificial Intelligence & Machine Learning**, with a strong foundation in **programming, data structures, and web development**.  
-I am actively seeking **internship and entry-level opportunities** where I can apply my technical skills, learn from industry professionals, and contribute to real-world projects.
+I'm a software developer passionate about building scalable web applications using **Java, Spring Boot, React, and MySQL**. I'm currently focused on strengthening my backend development and Data Structures & Algorithms while preparing for Software Development Engineer roles.
 
 ---
 
-## 🎯 Career Objective  
+## 🚀 Tech Stack
 
-To secure a **Software / AI-ML Internship or Graduate Role** where I can leverage my skills in **Java, Python, Machine Learning, and Web Development** while continuously improving my problem-solving and engineering abilities.
+**Languages**
 
----
+Java • Python • JavaScript
 
-## 🛠️ Technical Skills  
+**Backend**
 
-**Programming Languages**  
-- Java  
-- Python  
-- JavaScript  
+Spring Boot • REST APIs • JWT Authentication • Flask
 
-**Web Technologies**  
-- HTML5  
-- CSS3  
-- React  
-- Flask  
+**Frontend**
 
-**Databases**  
-- MySQL  
-- PostgreSQL  
+React • HTML5 • CSS3
 
-**Core Computer Science**  
-- Data Structures & Algorithms (Java)  
-- Object-Oriented Programming  
-- Database Management Systems  
-- Basics of Computer Networks  
+**Database**
 
-**AI / ML**  
-- Machine Learning Algorithms  
-- Convolutional Neural Networks (CNN)  
-- Data Preprocessing & Model Evaluation  
+MySQL • PostgreSQL
+
+**Tools**
+
+Git • GitHub • Postman • Docker (Learning)
 
 ---
 
-## 📌 Academic & Personal Projects  
+## 🌟 Featured Projects
 
-### 🔹 Portfolio Website  
-- Designed and developed a **responsive personal portfolio**  
-- Showcases skills, projects, and contact information  
-- Built using **HTML, CSS, JavaScript, and React**
+### 🛒 EcoBazaar Platform
 
-### 🔹 AI Suspect Detection System (CNN)  
-- Developed a **Convolutional Neural Network** to identify suspects from images  
-- Implemented image preprocessing and classification  
-- Focused on real-world AI application in security systems  
+**Java | Spring Boot | React | MySQL | JWT**
 
-### 🔹 Student Attendance Prediction (Machine Learning)  
-- Built a machine learning model to **predict student attendance patterns**  
-- Used data preprocessing and supervised learning algorithms  
-- Improved prediction accuracy through feature selection  
+A sustainable e-commerce platform with authentication, product management, shopping cart, and REST APIs.
+
+**Highlights**
+
+* JWT-based login and registration.
+* CRUD operations for products.
+* React frontend integrated with Spring Boot backend.
+* MySQL database with RESTful APIs.
 
 ---
 
-## 📜 Certifications  
+### ♻️ Smart Waste Management System
 
-- Network Defense  
-- Java Foundation  
-- AI Fundamentals  
+**React | Flask | Machine Learning**
 
----
+A web application that allows users to report waste issues and helps manage complaints efficiently.
 
-## 📚 Currently Learning  
+**Highlights**
 
-- Advanced **Data Structures & Algorithms (Java)**  
-- **Cybersecurity Fundamentals**  
-- Improving **problem-solving on coding platforms**
+* Complaint management workflow.
+* ML-based waste categorization.
+* Interactive frontend with backend integration.
 
 ---
 
-## 🤝 Soft Skills  
+### 🗳️ Voting Poll App
 
-- Problem Solving  
-- Analytical Thinking  
-- Continuous Learner  
-- Team Collaboration  
-- Strong Communication  
+**Spring Boot | React | MySQL**
 
----
+A secure online voting application with user authentication and live vote counting.
 
-## 📫 Connect With Me  
+**Highlights**
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/abhinaya-bolishetti-441720276/  
-- 💻 GitHub: https://github.com/Abhinaya-Bolishetti  
+* User login system.
+* Poll creation and voting.
+* Real-time result display.
 
 ---
 
-⭐ *Open to internships, training programs, and entry-level software roles.*
+### 🤖 Finding Abductors Using AI
+
+**Python | CNN | Deep Learning**
+
+A computer vision project that identifies suspects using Convolutional Neural Networks.
+
+**Highlights**
+
+* Image preprocessing.
+* CNN model training.
+* Classification for security applications.
+
+---
+
+## 📖 Currently Learning
+
+* Spring Security
+* Docker
+* System Design Fundamentals
+* Advanced Data Structures & Algorithms (Java)
+
+---
+
+## 📈 GitHub Goals
+
+* Build production-style Spring Boot projects.
+* Solve DSA problems in Java consistently.
+* Learn backend best practices and API design.
+
+---
+
+## 📜 Certifications
+
+* Java Foundation
+* AI Fundamentals
+* Cisco Network Defense
+
+---
+
+## 🤝 Let's Connect
+
+* **LinkedIn:** [www.linkedin.com/in/abhinaya-bolishetti-441720276](http://www.linkedin.com/in/abhinaya-bolishetti-441720276)
+* **GitHub:** github.com/Abhinaya-Bolishetti
+
+---
+
+> 💼 Open to Software Engineer, Java Backend, Full Stack, and Graduate Developer opportunities.
