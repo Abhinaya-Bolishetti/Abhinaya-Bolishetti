@@ -1,222 +1,187 @@
-# 👋 Hi, I'm Abhinaya Bolishetti
+# Hi, I'm Abhinaya Bolishetti 👋
 
-### Java Backend Developer • Full Stack Developer • B.Tech CSE (AI & ML) Graduate (2026)
+### B.Tech Computer Science (AI & ML) Graduate • Java Backend • AI/ML Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+React+Developer;Building+REST+APIs+and+Full+Stack+Applications;Open+to+Software+Engineer+Roles" alt="Typing SVG"/>
-</p>
+I'm a Computer Science (AI & ML) graduate who enjoys building backend applications with Java and exploring AI-powered solutions using Python. I like working on projects that combine software engineering with practical machine learning.
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/abhinaya-bolishetti-441720276">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhinaya_Bolishetti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bolishettiabhinaya1289@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Abhinaya-Bolishetti">
-    <img src="https://img.shields.io/badge/GitHub-Abhinaya--Bolishetti-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-SDE%20Roles-success?style=for-the-badge"/>
+  <a href="https://leetcode.com/u/Abhinaya_Bolishetti/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💜 About Me
+## About Me
 
-I'm a **Java Backend and Full Stack Developer** passionate about building scalable applications and solving real-world problems with software.
-
-* 🎓 B.Tech in Computer Science (AI & ML) — **2026 Graduate**
-* 💻 Interested in **Java, Spring Boot, React, REST APIs, and MySQL**
-* 🌱 Currently learning **Spring Security, Docker, and System Design**
-* 📚 Strengthening **Data Structures & Algorithms in Java**
-* 🚀 Looking for **Software Engineer / Java Backend / Full Stack Developer** opportunities.
+- 🎓 **B.Tech CSE (AI & ML)** — Bhoj Reddy Engineering College for Women (2026 Graduate)
+- 💻 Interested in **Java Backend Development, Spring Boot, AI/ML, REST APIs, and SQL**
+- 🌱 Currently learning **Spring Security, Docker, Python for AI/ML, and System Design**
+- 📚 Practicing **Data Structures & Algorithms in Java**
+- 🚀 Open to **Software Engineer, Java Backend, Full Stack, and AI/ML Fresher** opportunities.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript"/>
-</p>
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
-### Backend
+### Backend & APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,flask"/>
-</p>
+![Spring](https://skillicons.dev/icons?i=spring)
+![Flask](https://skillicons.dev/icons?i=flask)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-### Database
+### AI / ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-</p>
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
 
-### Tools
+**Libraries:** NumPy • Pandas • Matplotlib • Keras
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode"/>
-</p>
+### Databases & Tools
 
----
-
-# 🌟 Featured Projects
-
-## 🛒 EcoBazaar Platform
-
-**Java • Spring Boot • React • MySQL • JWT Authentication**
-
-A sustainable full-stack e-commerce platform built during my Java Full Stack learning journey.
-
-### Features
-
-* 🔐 JWT-based Authentication & Authorization
-* 🛍️ Product Catalog & CRUD Operations
-* 🛒 Shopping Cart Management
-* 📦 Order Management APIs
-* 🗄️ MySQL Database Integration
-* 🌐 REST APIs connecting React frontend with Spring Boot backend
-
-**🔗 Repository**
-
-➡️ https://github.com/Abhinaya-Bolishetti/Ecobazar
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 ---
 
-## ♻️ Smart Waste Management System
+# Featured Projects
 
-**React • Flask • Machine Learning**
+## AI-Based Suspect Detection System
 
-A smart waste reporting application that helps users report and manage waste complaints efficiently.
+**Python • TensorFlow • OpenCV • Flask**
 
-### Features
+AI-powered image classification system for identifying suspects from uploaded images.
 
-* 📍 Waste Complaint Reporting
-* 🤖 ML-Based Waste Categorization
-* 📊 Complaint Tracking Dashboard
-* 🌍 Interactive React Frontend
-* 🔄 Flask Backend Integration
+**Highlights**
+- CNN-based image classification model.
+- Flask REST API for image prediction.
+- PostgreSQL integration for prediction records.
+- Model evaluation and testing pipeline.
 
-**🔗 Repository**
-
-➡️ https://github.com/Abhinaya-Bolishetti/Smart_Waste_Management_System
-
----
-
-## 🗳️ Voting Poll App
-
-**Spring Boot • React • MySQL**
-
-A secure online voting system with authentication and live poll result visualization.
-
-### Features
-
-* 👤 User Registration & Login
-* 🗳️ Vote Casting System
-* 📈 Live Poll Results
-* 🔒 Secure REST APIs
-* 💾 MySQL Database
-
-**🔗 Repository**
-
-➡️ https://github.com/Abhinaya-Bolishetti/Voting-Poll-App
+**Repository:**  
+🔗 <PRIVATE_URL>
 
 ---
 
-## 🤖 Finding Abductors Using AI
+## Smart Waste Management & Recycling Recommendation System
 
-**Python • CNN • OpenCV**
+**Python • TensorFlow • MobileNet • Flask**
 
-An AI-powered image recognition system developed to identify missing or suspected persons using deep learning.
+An AI application that classifies waste images and recommends nearby recycling centers.
 
-### Features
+**Highlights**
+- MobileNet-based waste image classification.
+- Image preprocessing and prediction pipeline.
+- Flask API integration.
+- Google Maps API for recycling recommendations.
 
-* 🧠 Convolutional Neural Network
-* 🖼️ Image Preprocessing
-* 📊 Model Training & Evaluation
-* 🔍 Security-Oriented AI Application
-
-**🔗 Repository**
-
-➡️ https://github.com/Abhinaya-Bolishetti/Finding-Abductors-Using-AI
+**Repository:**  
+🔗 <PRIVATE_URL>
 
 ---
 
-# 📚 Currently Learning
+## EcoBazaar — Full Stack E-Commerce Platform
 
-* 🌱 Spring Security
-* 🐳 Docker & Containerization
-* ⚙️ System Design Basics
-* 📖 Advanced Data Structures & Algorithms (Java)
+**Java • Spring Boot • React • MySQL**
 
----
+A sustainable e-commerce platform built during the Infosys Springboard Java Full Stack Internship.
 
-# 🎯 2026 Goals
+**Highlights**
+- JWT Authentication & Authorization.
+- Product, Cart, and Order REST APIs.
+- Spring Boot backend with MySQL.
+- React frontend with API integration.
 
-* ✅ Build production-ready Spring Boot backend projects.
-* ✅ Master REST API development and authentication.
-* ✅ Solve DSA consistently in Java.
-* ✅ Learn scalable backend architecture.
-* ✅ Contribute to open-source projects.
-* ✅ Start my career as a Software Development Engineer.
+**Repository:**  
+🔗 <PRIVATE_URL>
 
 ---
 
+## Publications
 
-
-# 💻 DSA Journey
-
-I'm actively practicing **Data Structures & Algorithms in Java** to prepare for Software Development Engineer interviews.
-
-### Topics Covered
-
-* Arrays
-* Strings
-* Binary Search
-* Linked Lists
-* Stack & Queue
-* Greedy Algorithms
-* Trees *(Currently Learning)*
-
-**LeetCode Profile**
-
-➡️ https://leetcode.com/u/Abhinaya_Bolishetti/
+- 📄 **Finding Abductors Using AI** — International Journal of Engineering Science Research (IJESR), 2025.
+- 📄 **Smart Waste Management System** — International Journal of Information Technology & Computer Science (IJITCE), Vol. 14, Issue 1, 2026.
 
 ---
 
-# 📜 Certifications
+## Experience
 
-* 🏅 Java Foundation
-* 🏅 AI Fundamentals
-* 🏅 Cisco Network Defense
-* 🏅 Infosys Springboard Java Full Stack Virtual Internship
+### Infosys Springboard — Virtual Java Full Stack Intern & Team Lead
 
----
+**Dec 2025 – Feb 2026**
 
-# 🤝 Let's Connect
+- Led a team of four members during EcoBazaar development.
+- Developed REST APIs using Spring Boot and MySQL.
+- Worked on backend integration, API testing, debugging, and documentation.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhinaya-bolishetti-441720276">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhinaya_Bolishetti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Abhinaya-Bolishetti">
-    <img src="https://img.shields.io/badge/GitHub-Abhinaya--Bolishetti-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://leetcode.com/u/Abhinaya_Bolishetti/">
-    <img src="https://img.shields.io/badge/LeetCode-Abhinaya_Bolishetti-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
+### YHills — Web Development Trainee
+
+**Jun 2024 – Aug 2024**
+
+- Built responsive web applications.
+- Implemented CRUD operations and backend integration.
 
 ---
 
-<p align="center">
+## DSA Journey
 
-### ⭐ *Code • Learn • Build • Repeat*
+I'm preparing for Software Development Engineer interviews by solving Data Structures and Algorithms in **Java**.
 
-*Building software that solves real-world problems, one project at a time.*
+**Topics Covered**
 
-</p>
+- Arrays
+- Strings
+- Binary Search
+- Linked Lists
+- Stack & Queue
+- Greedy Algorithms
+- Trees *(Currently Learning)*
+
+**LeetCode:**  
+🔗 <PRIVATE_URL>
+
+---
+
+## Certifications
+
+- Java Foundation
+- Infosys Springboard Java Full Stack Internship
+- AI Fundamentals
+- Cisco Women in Cybersecurity BOOST 5.0
+- SQL (Basic)
+
+---
+
+## Let's Connect
+
+I'm always interested in connecting with developers and learning about backend development, AI/ML, and software engineering opportunities.
+
+- LinkedIn: <PRIVATE_URL>
+- GitHub: <PRIVATE_URL>
+- Email: **bolishettiabhinaya1289@gmail.com**
