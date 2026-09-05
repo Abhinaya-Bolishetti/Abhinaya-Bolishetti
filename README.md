@@ -1,18 +1,15 @@
 # Hi, I'm Abhinaya Bolishetti 👋
 
-### B.Tech Computer Science (AI & ML) Graduate • Java Backend • AI/ML Enthusiast
+### B.Tech Computer Science (AI & ML) Graduate | AI/ML Developer | Software Engineer
 
-I'm a Computer Science (AI & ML) graduate who enjoys building backend applications with Java and exploring AI-powered solutions using Python. I like working on projects that combine software engineering with practical machine learning.
+I'm an AI & ML graduate with a strong interest in building intelligent applications using Machine Learning, Computer Vision, and Python. Alongside AI, I enjoy developing backend applications with Java, Spring Boot, Flask, SQL, and REST APIs.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhinaya-bolishetti-441720276">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bolishettiabhinaya1289@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Abhinaya-Bolishetti">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Abhinaya_Bolishetti/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
@@ -23,116 +20,121 @@ I'm a Computer Science (AI & ML) graduate who enjoys building backend applicatio
 
 ## About Me
 
-- 🎓 **B.Tech CSE (AI & ML)** — Bhoj Reddy Engineering College for Women (2026 Graduate)
-- 💻 Interested in **Java Backend Development, Spring Boot, AI/ML, REST APIs, and SQL**
-- 🌱 Currently learning **Spring Security, Docker, Python for AI/ML, and System Design**
-- 📚 Practicing **Data Structures & Algorithms in Java**
-- 🚀 Open to **Software Engineer, Java Backend, Full Stack, and AI/ML Fresher** opportunities.
+- 🎓 **B.Tech Computer Science (AI & ML)** — Bhoj Reddy Engineering College for Women (2026 Graduate)
+- 🤖 Interested in **Machine Learning, Computer Vision, NLP, and AI-powered applications**
+- 💻 Skilled in **Python, Java, Flask, Spring Boot, SQL, and REST APIs**
+- 📚 Strengthening **Python for AI/ML, Deep Learning, and Data Structures & Algorithms**
+- 🌱 Currently learning **Generative AI, Docker, and System Design**
+- 🚀 Open to **AI/ML Engineer, Software Engineer, and Backend Developer** roles.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Languages
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
-### Backend & APIs
-
-![Spring](https://skillicons.dev/icons?i=spring)
-![Flask](https://skillicons.dev/icons?i=flask)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql"/>
+</p>
 
 ### AI / ML
 
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+</p>
 
-**Libraries:** NumPy • Pandas • Matplotlib • Keras
+**Libraries:** NumPy • Pandas • Matplotlib • Keras • Scikit-learn
 
-### Databases & Tools
+### Backend Development
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Docker](https://skillicons.dev/icons?i=docker)
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,spring,nodejs"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,postman,docker,vscode"/>
+</p>
 
 ---
 
 # Featured Projects
 
-## AI-Based Suspect Detection System
+## 🤖 AI-Based Suspect Detection System
 
-**Python • TensorFlow • OpenCV • Flask**
+**Python • TensorFlow • OpenCV • Flask • PostgreSQL**
 
-AI-powered image classification system for identifying suspects from uploaded images.
+AI-powered image classification system developed to identify suspects from uploaded images.
 
-**Highlights**
-- CNN-based image classification model.
-- Flask REST API for image prediction.
-- PostgreSQL integration for prediction records.
-- Model evaluation and testing pipeline.
+### Highlights
 
-**Repository:**  
-🔗 <PRIVATE_URL>
-
----
-
-## Smart Waste Management & Recycling Recommendation System
-
-**Python • TensorFlow • MobileNet • Flask**
-
-An AI application that classifies waste images and recommends nearby recycling centers.
-
-**Highlights**
-- MobileNet-based waste image classification.
 - Image preprocessing and prediction pipeline.
-- Flask API integration.
-- Google Maps API for recycling recommendations.
+- CNN-based image classification.
+- Flask REST API for image upload and prediction.
+- PostgreSQL integration for prediction records.
+- Model evaluation and testing.
 
-**Repository:**  
-🔗 <PRIVATE_URL>
+**Repository**
+
+🔗 https://github.com/Abhinaya-Bolishetti/Finding-Abductors-Using-AI
 
 ---
 
-## EcoBazaar — Full Stack E-Commerce Platform
+## ♻️ Smart Waste Management & Recycling Recommendation System
+
+**Python • TensorFlow • MobileNet • Flask • SQLite**
+
+Machine Learning application for waste image classification and recycling recommendations.
+
+### Highlights
+
+- MobileNet-based image classification model.
+- Data preprocessing and prediction workflow.
+- Flask backend for inference.
+- Google Maps API integration for nearby recycling centers.
+
+**Repository**
+
+🔗 https://github.com/Abhinaya-Bolishetti/Smart_Waste_Management_System
+
+---
+
+## 🛒 EcoBazaar — Full Stack E-Commerce Platform
 
 **Java • Spring Boot • React • MySQL**
 
 A sustainable e-commerce platform built during the Infosys Springboard Java Full Stack Internship.
 
-**Highlights**
-- JWT Authentication & Authorization.
-- Product, Cart, and Order REST APIs.
-- Spring Boot backend with MySQL.
-- React frontend with API integration.
+### Highlights
 
-**Repository:**  
-🔗 <PRIVATE_URL>
+- JWT Authentication and Authorization.
+- REST APIs for products, cart, and orders.
+- Spring Boot backend with MySQL.
+- React frontend integrated with REST APIs.
+
+**Repository**
+
+🔗 https://github.com/Abhinaya-Bolishetti/Ecobazar
 
 ---
 
-## Publications
+# Publications
 
 - 📄 **Finding Abductors Using AI** — International Journal of Engineering Science Research (IJESR), 2025.
 - 📄 **Smart Waste Management System** — International Journal of Information Technology & Computer Science (IJITCE), Vol. 14, Issue 1, 2026.
 
 ---
 
-## Experience
+# Internship Experience
 
-### Infosys Springboard — Virtual Java Full Stack Intern & Team Lead
+### Infosys Springboard — Java Full Stack Virtual Internship (Team Lead)
 
 **Dec 2025 – Feb 2026**
 
@@ -144,14 +146,13 @@ A sustainable e-commerce platform built during the Infosys Springboard Java Full
 
 **Jun 2024 – Aug 2024**
 
-- Built responsive web applications.
-- Implemented CRUD operations and backend integration.
+- Developed responsive web applications with CRUD operations and backend integration.
 
 ---
 
-## DSA Journey
+# DSA Journey
 
-I'm preparing for Software Development Engineer interviews by solving Data Structures and Algorithms in **Java**.
+I practice **Data Structures & Algorithms in Java** for software engineering interviews.
 
 **Topics Covered**
 
@@ -163,25 +164,24 @@ I'm preparing for Software Development Engineer interviews by solving Data Struc
 - Greedy Algorithms
 - Trees *(Currently Learning)*
 
-**LeetCode:**  
-🔗 <PRIVATE_URL>
+🔗 LeetCode: https://leetcode.com/u/Abhinaya_Bolishetti/
 
 ---
 
-## Certifications
+# Certifications
 
 - Java Foundation
 - Infosys Springboard Java Full Stack Internship
 - AI Fundamentals
-- Cisco Women in Cybersecurity BOOST 5.0
 - SQL (Basic)
+- Cisco Women in Cybersecurity BOOST 5.0
 
 ---
 
-## Let's Connect
+# Let's Connect
 
-I'm always interested in connecting with developers and learning about backend development, AI/ML, and software engineering opportunities.
+I'm always interested in AI/ML, backend development, and software engineering opportunities.
 
-- LinkedIn: <PRIVATE_URL>
-- GitHub: <PRIVATE_URL>
-- Email: **bolishettiabhinaya1289@gmail.com**
+- 💼 LinkedIn: www.linkedin.com/in/abhinaya-bolishetti-441720276
+- 💻 GitHub: github.com/Abhinaya-Bolishetti
+- 📧 Email: bolishettiabhinaya1289@gmail.com
